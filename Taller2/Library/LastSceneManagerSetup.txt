@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/cesar scena 1 logger.unity
+- path: Assets/Scenes/Sebas.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
